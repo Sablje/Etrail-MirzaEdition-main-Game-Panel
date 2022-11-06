@@ -1,1 +1,3 @@
-# Etrail-MirzaEdition-main-Game-Panel
+# Etrail-MirzaEdition
+
+- Backdoor removed
